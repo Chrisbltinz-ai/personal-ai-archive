@@ -22,7 +22,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "f3d635d7ecf18711be568b41291eea8e51a921aa84676f4eb519761e304e7134"
+      "sha256": "70bee52bb8abdc1792bc41a7ef247873c31d5bb958035bc2ed086702d647eb41"
     },
     {
       "path": "archive/build-status.md",
@@ -91,6 +91,102 @@
     {
       "path": "skills/ai-skills/public-memory-update/SKILL.md",
       "sha256": "5a39733eaa033c0d3eee74c95419e3357eac25132f1b07f8e07234ab4ca9ce15"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/20款家居裁缝辅料资料包.zip",
+      "sha256": "8a898c16ec6f64796a5af27b7d8b8dcb2fe4ecaeddccbd09dc0f2c508e7f2b3f"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/README.md",
+      "sha256": "ac5f592bf6a9d7ee2f5185e89411a3a96d7fa00b4c3decd14f1dc3f3ca16bdec"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/商品调研数据.json",
+      "sha256": "617958ad8ed3a24e24b3621b4b7342d50d0ee6bf879977322e0e0660a7873883"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/家居裁缝辅料20款参考册.html",
+      "sha256": "48f2c3e0d95ffcfe76444c795a856b2fac7c889ad23c6ae213043de12efe3f4e"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/01-B0F1FVCJRJ.jpg",
+      "sha256": "0571511e6c0481ca2cfa59cea55f5f29d73970147b87715a550996bc8ceb5b54"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/02-B07C8LLJND.jpg",
+      "sha256": "32675addc39833033ded1a79bd78ef23b59d8f9b02489a7c44f9caa41dd59817"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/03-B003W0Q6CG.jpg",
+      "sha256": "40b21e650e5d52218bc8dc6c01f4633bbcd5f19dbcb6198f41bff83397683e48"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/04-B097R7XB8D.jpg",
+      "sha256": "cad77e139a5f4b5125d85add6188e48d3ddbc06edf40898dee069ec929c095cc"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/05-B00DV8XTPQ.jpg",
+      "sha256": "5d1bdd9565152b5b1494e75590c707dfd9f51918041c94e9f60b37ce77d650d4"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/06-B09DTD991T.jpg",
+      "sha256": "9fc5d72f8fae9e7b1e8c9b2f35d7ee5c90cdfc9cf8121702bc8192b39b497c06"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/07-B07HQYMPB8.jpg",
+      "sha256": "669a81a4d7731aae0515948e4429c70af550e3a3b9ea97a50e584a171ce17b3b"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/08-B07LDXZVN7.jpg",
+      "sha256": "0a63936efb7e74fc2ae1bfa09fa96af3b7b73ff79126d75b4c5828e99a4c548f"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/09-B08232CF5L.jpg",
+      "sha256": "2e57ba2c39c57a59806c5be3511a7aa646b41379904ee99b5d3a475f137a9499"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/10-B07PXJT25K.jpg",
+      "sha256": "31a16dd56e8d6e361a9eb3e4ef02b020a3b14eee9dc965dc770ab01345c34d24"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/11-B000XZTSYQ.jpg",
+      "sha256": "17347f12bb878622b0989c0a7f8e33596f10ffaad2e6c4f81e10ae02178d5bbb"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/12-B08HS3F9CB.jpg",
+      "sha256": "d9fde9c90d70d4cf84abd5d9c6defb6d1f82b719a4f595e847c3aa28ce8cdb29"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/13-B072XJTV7V.jpg",
+      "sha256": "1377ddee90270982afa965b15eeb625777a6046e713b751cf3a469e10ad68577"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/14-B00Q87O00U.jpg",
+      "sha256": "980cfd3b0b02acb925adf90d8f1535f90aa1cbe95eb33177c758a35931fc73ad"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/15-B07SJZXCDZ.jpg",
+      "sha256": "ffb9e29e70c3aea25d5bb6f89cf91721b251ac2c1697d7b53ddf30f69e581e7b"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/16-B07VX7P366.jpg",
+      "sha256": "976097ce5b893532565971d8e927d1778f8addef0846d9e33a5abf4fb539fbb2"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/17-B085HBBKK7.jpg",
+      "sha256": "8518df666974cb84f458507799faa909434dca74d9add6c35064326818bd650a"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/18-B081895Y9K.jpg",
+      "sha256": "2f23cfa678ec469658716ff4845d679f8ef7baf34f8b6031b912678c86b4332b"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/19-B084P8C3BK.jpg",
+      "sha256": "8d362642c9512b8eda8bed0e0cb23ee029fc8e4e16a919873911da238c1c51c5"
+    },
+    {
+      "path": "archive/research/2026-10-17-home-sewing-20/参考图片/20-B0CB7RFJX8.jpg",
+      "sha256": "c380a315739e35ac63f14aa78ba301359fdaeb662b70738da2278bba8d45ee71"
     },
     {
       "path": ".github/workflows/archive-check.yml",
