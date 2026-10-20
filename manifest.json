@@ -1,0 +1,89 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "32c8d65adacd252ab02c9696708c83019a32d495652842f48ba5f61351e409ea"
+    },
+    {
+      "path": "ai-integration.md",
+      "sha256": "5c1620e3263df8cfa5a9cc98f42c805708f93ea7fc1b4b99b06bc93d748587a1"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f3d635d7ecf18711be568b41291eea8e51a921aa84676f4eb519761e304e7134"
+    },
+    {
+      "path": "archive/build-status.md",
+      "sha256": "28f62dc10e48fcf0961dc8759885c14065575a21f320291c5d13216d58ba5782"
+    },
+    {
+      "path": "archive/projects.md",
+      "sha256": "984fca998dca17a973916ddaaeb9d455ec636a55524b0846c9d1c6e6ffaacce9"
+    },
+    {
+      "path": "identity/profile.md",
+      "sha256": "5d0f30a31b47ec1d26022c46600f1178026a8ffd52b5f98f701e1c3ba9a6c862"
+    },
+    {
+      "path": "memory/decisions.md",
+      "sha256": "575156a186f8372b76559d885f8ccfe4287dfcb6bd39981afcc995d35c5095e3"
+    },
+    {
+      "path": "memory/lessons.md",
+      "sha256": "2c882167ca7ad2a593104d9010b443e7af311f3ef52bf00438fcf1935fb024ea"
+    },
+    {
+      "path": "memory/preferences.md",
+      "sha256": "739b749a040120e1b798ff8b4ae605fe03f60c6b9934c1ff25cc1b1a210dd2d0"
+    },
+    {
+      "path": "scripts/validate_archive.py",
+      "sha256": "f31befaed5742b708de071dd000f3cc6c34431db18bc7a6a1a4989c56b633645"
+    },
+    {
+      "path": "skills/capabilities.md",
+      "sha256": "1124ef2fd3a5aec062f019f09e8e0d3b6d7fecf3475bf10711117b200d645293"
+    },
+    {
+      "path": "workflow/ai-rules.md",
+      "sha256": "12783dcd0bb93a5bbb95468161583afd3c1ec58a62124c0097b9cdd1e0ceee12"
+    },
+    {
+      "path": "workflow/preferences.md",
+      "sha256": "1f981b992f86061b746142687dbb70e0ed6b6b2662450010d695f395a6268eb1"
+    },
+    {
+      "path": "workflow/version-control.md",
+      "sha256": "28a356dac5b0b1b179c2591f09f59072f43695e85fea1ccf549b32bb58e93733"
+    },
+    {
+      "path": "skills/ai-skills/focused-verification/SKILL.md",
+      "sha256": "47c7f80d677adfb71e1538277333885b0b47d51cbdc0d6d1dbdd4f0b3b0fb3cc"
+    },
+    {
+      "path": "skills/ai-skills/inventory-audit/SKILL.md",
+      "sha256": "bc6e6baa2cbf206899cd6969b56e74f5ab1ec2d3549e67aa97eefc187c5386f3"
+    },
+    {
+      "path": "skills/ai-skills/listing-copy/SKILL.md",
+      "sha256": "ced8d746b57da681abf5d6699faeb813510b214f16d4ba960357d958606956c7"
+    },
+    {
+      "path": "skills/ai-skills/product-fact-lock/SKILL.md",
+      "sha256": "42f5025630a8fef4fddbd07733eeca6529f759babffd64461321ec1341739918"
+    },
+    {
+      "path": "skills/ai-skills/product-image-review/SKILL.md",
+      "sha256": "39deb5abd07cf874fb4ca9e3ec24133926fe66409b8c7cb0213a1b669b9ee3a2"
+    },
+    {
+      "path": "skills/ai-skills/public-memory-update/SKILL.md",
+      "sha256": "5a39733eaa033c0d3eee74c95419e3357eac25132f1b07f8e07234ab4ca9ce15"
+    },
+    {
+      "path": ".github/workflows/archive-check.yml",
+      "sha256": "0f406ce7672b6c7de5d2acc69aee80c53059e3df52c9b70b84150923f5db4da0"
+    }
+  ],
+  "skillCount": 6
+}
