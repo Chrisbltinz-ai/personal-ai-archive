@@ -2,13 +2,13 @@
 
 ## 首次读取
 
-将下文复制到有联网能力的AI，并把OWNER替换为仓库用户名：
+将下文复制到有联网能力的AI，并仓库用户名已设为 Chrisbltinz-ai：
 
-> 请读取 https://github.com/OWNER/personal-ai-archive ，先读取workflow/ai-rules.md与workflow/preferences.md，再按任务读取identity、memory、skills相关文件。未填写占位符保持未知。完成任务后将可公开的新经验作为候选，若已授权写工具则提交分支PR，否则输出补丁。不得声称已经自动获得跨对话记忆。
+> 请读取 https://github.com/Chrisbltinz-ai/personal-ai-archive ，先读取workflow/ai-rules.md与workflow/preferences.md，再按任务读取identity、memory、skills相关文件。未填写占位符保持未知。完成任务后将可公开的新经验作为候选，若已授权写工具则提交分支PR，否则输出补丁。不得声称已经自动获得跨对话记忆。
 
 ## GitHub API
 
-公开读取：`GET https://api.github.com/repos/OWNER/personal-ai-archive/contents/workflow/preferences.md?ref=main`。返回JSON中的content为Base64，亦可用download_url读取。遵守API限流。
+公开读取：`GET https://api.github.com/repos/Chrisbltinz-ai/personal-ai-archive/contents/workflow/preferences.md?ref=main`。返回JSON中的content为Base64，亦可用download_url读取。遵守API限流。
 
 写入：由具备HTTP/执行工具的Agent在用户授权后调用GitHub API，或本机Git+GitHub CLI。凭证存平台凭证库/系统钥匙串，仅授权此仓库；不写进Markdown、提示词或提交。更新文件携带最新SHA，写到独立分支后发起PR，不覆盖main。
 

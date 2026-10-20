@@ -5,8 +5,20 @@
       "sha256": "32c8d65adacd252ab02c9696708c83019a32d495652842f48ba5f61351e409ea"
     },
     {
+      "path": "AGENTS.md",
+      "sha256": "ac07858536304c95ba7d1510ea2cf8ab19289510af06fa961b037608fdd4f560"
+    },
+    {
       "path": "ai-integration.md",
-      "sha256": "5c1620e3263df8cfa5a9cc98f42c805708f93ea7fc1b4b99b06bc93d748587a1"
+      "sha256": "cdce6bd01bf2e3faac9ff0024d89fae23af1ab6bf5b1fdba7ac99cb86c873e68"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "850eb1fd77f92d8741d2206ad7765dd78ca36b9cd5aa01205cf7fa87ef1a8550"
+    },
+    {
+      "path": "GEMINI.md",
+      "sha256": "850eb1fd77f92d8741d2206ad7765dd78ca36b9cd5aa01205cf7fa87ef1a8550"
     },
     {
       "path": "README.md",
@@ -14,7 +26,7 @@
     },
     {
       "path": "archive/build-status.md",
-      "sha256": "28f62dc10e48fcf0961dc8759885c14065575a21f320291c5d13216d58ba5782"
+      "sha256": "87cadd619f21160fdde071796ad122897729cf3984ff468fb8dcfb31246dc5f7"
     },
     {
       "path": "archive/projects.md",
