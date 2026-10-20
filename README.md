@@ -17,3 +17,7 @@
 接入：见 [ai-integration.md](ai-integration.md)。恢复：见 [版本恢复](workflow/version-control.md)。
 
 本仓库是档案和规范，不是已经部署的跨平台后台同步服务。平台必须有网络/工具权限且由用户授权才能读取或写入。第三方技能原件未批量公开，避免泄露业务信息与误分发依赖。`skills/ai-skills` 为从已用流程整理的通用可移植版，不代表原件完整备份。
+
+## 选品资料
+
+- [20款家居裁缝辅料详细图文资料](archive/research/2026-10-17-home-sewing-20/README.md)（2026-10-17调研快照）
